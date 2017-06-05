@@ -55,7 +55,7 @@
 
 	<profiles>
 		<profile>
-			<id>oos_deploy</id>
+			<id>oss_deploy</id>
 			<build>
 				<plugins>
 					<!-- Source -->
